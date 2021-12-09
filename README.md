@@ -28,4 +28,5 @@
 
 [![Earthlings](https://github-readme-stats.vercel.app/api/pin/?username=smtashev20&repo=Green_Project_&theme=tokyonight)](https://github.com/SMTashev20/Green_Project_)
 [![Team Hector](https://github-readme-stats.vercel.app/api/pin/?username=asslavov18&repo=TeamHector&theme=tokyonight)](https://github.com/asslavov18/TeamHector)
+[![Team Hector](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20repo=Physics-Project&theme=tokyonight)](https://github.com/SYSolakov20/Physics-Project)
 </details>
