@@ -8,7 +8,7 @@
 ## My social medias📸
 
  <a href = "https://www.instagram.com/zhanett.p/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
- <a href = "https://eur.delve.office.com/"><img src = "https://o.remove.bg/downloads/ca61bc0e-e6fc-44ea-a8c2-3a5ab4ce96a8/office-removebg-preview.png" height = "43"/></a>
+ <a href = "https://eur.delve.office.com/"><img src = "https://bg.wizcase.com/wp-content/uploads/2020/02/Office-logo.jpg" height = "43"/></a>
 
 ## Technologies I can use:
  
@@ -28,5 +28,5 @@
 
 [![Earthlings](https://github-readme-stats.vercel.app/api/pin/?username=smtashev20&repo=Green_Project_&theme=tokyonight)](https://github.com/SMTashev20/Green_Project_)
 [![Team Hector](https://github-readme-stats.vercel.app/api/pin/?username=asslavov18&repo=TeamHector&theme=tokyonight)](https://github.com/asslavov18/TeamHector)
-[![Team Hector](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20repo=Physics-Project&theme=tokyonight)](https://github.com/SYSolakov20/Physics-Project)
+[![Blue Birds](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20&repo=Physics-Project&theme=tokyonight)](https://github.com/SYSolakov20/Physics-Project)
 </details>
