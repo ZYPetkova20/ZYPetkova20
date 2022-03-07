@@ -1,7 +1,7 @@
 
 # Hey👋, I am [Zhanet Petkova](https://github.com/ZYPetkova20)!
 - I am a student at [VSCPI](https://www.codingburgas.bg/)👨🏻‍💻. 
-- I am currently studying C++, HTML 5 & CSS 3.💻
+- I am currently studying C++, HTML 5 & CSS 3 and JavaScript.💻
 
 <img align="right" weight="250" src="https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif" />
 
